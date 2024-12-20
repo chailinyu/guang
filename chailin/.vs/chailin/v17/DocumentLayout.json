@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\python  lianxi\\chailin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56838BDE-D302-4C2D-B6C2-536B1A045749}|chailin.pyproj|D:\\python  lianxi\\chailin\\chailin.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{56838BDE-D302-4C2D-B6C2-536B1A045749}|chailin.pyproj|solutionrelative:chailin.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "chailin.py",
+              "DocumentMoniker": "D:\\python  lianxi\\chailin\\chailin.py",
+              "RelativeDocumentMoniker": "chailin.py",
+              "ToolTip": "D:\\python  lianxi\\chailin\\chailin.py",
+              "RelativeToolTip": "chailin.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-12-19T12:13:10.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
